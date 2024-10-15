@@ -1,0 +1,1451 @@
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Error: Request failed with status code 401
+
+Error: Request failed with status code 401
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price, rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Response from ChatGPT: "[\n    {\n        \"name\": \"Samsung Front Load Washer\",\n        \"brand\": \"Samsung\",\n        \"price\": \"$800\",\n        \"rating\": 4.5,\n        \"key_features\": [\"Energy-efficient\", \"Large capacity\", \"Smart technology\"]\n    },\n    {\n        \"name\": \"LG Top Load Washer\",\n        \"brand\": \"LG\",\n        \"price\": \"$700\",\n        \"rating\": 4.2,\n        \"key_features\": [\"TurboWash technology\", \"Quiet operation\", \"Steam cleaning\"]\n    },\n    {\n        \"name\": \"Whirlpool High-Efficiency Washer\",\n        \"brand\": \"Whirlpool\",\n        \"price\": \"$600\",\n        \"rating\": 4.0,\n        \"key_features\": [\"Auto-sensing water level\", \"Presoak option\", \"Stainless steel drum\"]\n    },\n    {\n        \"name\": \"GE Front Load Smart Washer\",\n        \"brand\": \"GE\",\n        \"price\": \"$900\",\n        \"rating\": 4.4,\n        \"key_features\": [\"Wi-Fi connectivity\", \"Steam refresh cycle\", \"Sanitize cycle\"]\n    },\n    {\n        \"name\": \"Maytag Top Load Washer\",\n        \"brand\": \"Maytag\",\n        \"price\": \"$750\",\n        \"rating\": 4.3,\n        \"key_features\": [\"PowerWash system\", \"Deep fill option\", \"Commercial-grade agitator\"]\n    }\n]"
+
+Response from ChatGPT: "[\n  {\n    \"name\": \"Samsung Front Load Washer\",\n    \"brand\": \"Samsung\",\n    \"price\": \"$800\",\n    \"rating\": 4.5,\n    \"key_features\": [\"Capacity: 4.5 cu. ft.\", \"Steam cleaning option\", \"Smart home compatible\"]\n  },\n  {\n    \"name\": \"LG TurboWash Top Load Washer\",\n    \"brand\": \"LG\",\n    \"price\": \"$700\",\n    \"rating\": 4.3,\n    \"key_features\": [\"Capacity: 5.0 cu. ft.\", \"TurboWash technology\", \"Wi-Fi enabled\"]\n  },\n  {\n    \"name\": \"GE High-Efficiency Front Load Washer\",\n    \"brand\": \"GE\",\n    \"price\": \"$900\",\n    \"rating\": 4.2,\n    \"key_features\": [\"Capacity: 4.8 cu. ft.\", \"Stain removal guide\", \"Energy Star certified\"]\n  },\n  {\n    \"name\": \"Maytag Top Load Washer\",\n    \"brand\": \"Maytag\",\n    \"price\": \"$750\",\n    \"rating\": 4.4,\n    \"key_features\": [\"Capacity: 4.7 cu. ft.\", \"PowerWash cycle\", \"Deep fill option\"]\n  },\n  {\n    \"name\": \"Bosch Compact Washer\",\n    \"brand\": \"Bosch\",\n    \"price\": \"$1000\",\n    \"rating\": 4.6,\n    \"key_features\": [\"Capacity: 2.2 cu. ft.\", \"Quiet operation\", \"Condensation drying system\"]\n  }\n]"
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Response from ChatGPT: "```json\n[\n    {\n        \"name\": \"Samsung Front Load Washer\",\n        \"brand\": \"Samsung\",\n        \"price\": 799,\n        \"rating\": 4.5,\n        \"key_features\": [\"Steam cleaning\", \"Energy efficient\", \"Large capacity\"]\n    },\n    {\n        \"name\": \"LG Smart Top Load Washer\",\n        \"brand\": \"LG\",\n        \"price\": 699,\n        \"rating\": 4.3,\n        \"key_features\": [\"Smart diagnosis\", \"Wifi connectivity\", \"TurboWash technology\"]\n    },\n    {\n        \"name\": \"Whirlpool High-Efficiency Top Load Washer\",\n        \"brand\": \"Whirlpool\",\n        \"price\": 599,\n        \"rating\": 4.0,\n        \"key_features\": [\"High-efficiency agitator\", \"Deep Water Wash option\", \"Presoak option\"]\n    },\n    {\n        \"name\": \"GE Front Load Washer with Steam\",\n        \"brand\": \"GE\",\n        \"price\": 849,\n        \"rating\": 4.6,\n        \"key_features\": [\"Sanitize cycle\", \"Built-in steam\", \"Quiet operation\"]\n    },\n    {\n        \"name\": \"Bosch 500 Series Compact Washer\",\n        \"brand\": \"Bosch\",\n        \"price\": 999,\n        \"rating\": 4.8,\n        \"key_features\": [\"Compact design\", \"EcoSilence motor\", \"SpeedPerfect option\"]\n    }\n]\n```"
+
+Error: Unexpected token '`', "```json
+[
+"... is not valid JSON
+SyntaxError: Unexpected token '`', "```json
+[
+"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getRecommendationsFromChatGPT (webpack-internal:///(api)/./pages/api/recommendations.ts:38:38)
+    at async handler (webpack-internal:///(api)/./pages/api/recommendations.ts:55:37)
+    at async K (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:2946)
+    at async U.render (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:3827)
+    at async DevServer.runApi (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:554:9)
+    at async NextNodeServer.handleCatchallRenderRequest (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:266:37)
+    at async DevServer.handleRequestImpl (file:///home/project/node_modules/next/dist/server/base-server.js#cjs:789:17)
+    at async eval (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:331:20)
+    at async Span.traceAsyncFn (file:///home/project/node_modules/next/dist/trace/trace.js#cjs:151:20)
+    at async DevServer.handleRequest (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:328:24)
+    at async invokeRender (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:174:21)
+    at async handleRequest (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:353:24)
+    at async requestHandlerImpl (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:377:13)
+    at async Server.requestListener (file:///home/project/node_modules/next/dist/server/lib/start-server.js#cjs:140:13)
+
+Response from ChatGPT: "{\n  \"products\": [\n    {\n      \"name\": \"LG TurboWash 360 Front Load Washer\",\n      \"brand\": \"LG\",\n      \"price\": 999,\n      \"rating\": 4.8,\n      \"features\": [\"TurboWash 360 technology\", \"SmartThinQ technology\", \"Large capacity\", \"Steam cleaning option\"]\n    },\n    {\n      \"name\": \"Samsung ActiveWave Top Load Washer\",\n      \"brand\": \"Samsung\",\n      \"price\": 799,\n      \"rating\": 4.5,\n      \"features\": [\"ActiveWave technology\", \"Vibration reduction\", \"Energy efficient\", \"Deep-fill option\"]\n    },\n    {\n      \"name\": \"Whirlpool High-Efficiency Front Load Washer\",\n      \"brand\": \"Whirlpool\",\n      \"price\": 899,\n      \"rating\": 4.6,\n      \"features\": [\"High-efficiency cleaning\", \"Sanitize cycle\", \"Advanced water filtration\", \"Quiet operation\"]\n    },\n    {\n      \"name\": \"Maytag PowerWash Agitator Top Load Washer\",\n      \"brand\": \"Maytag\",\n      \"price\": 749,\n      \"rating\": 4.4,\n      \"features\": [\"PowerWash agitator\", \"Deep clean option\", \"Commercial technology\", \"Stainless steel tub\"]\n    },\n    {\n      \"name\": \"Bosch 800 Series Front Load Washer\",\n      \"brand\": \"Bosch\",\n      \"price\": 1099,\n      \"rating\": 4.7,\n      \"features\": [\"SpeedPerfect technology\", \"EcoSilence motor\", \"Automatic detergent dispensing\", \"Anti-vibration design\"]\n    }\n  ]\n}"
+
+Error: recommendations.map is not a function
+TypeError: recommendations.map is not a function
+    at getRecommendationsFromChatGPT (webpack-internal:///(api)/./pages/api/recommendations.ts:39:32)
+    at async handler (webpack-internal:///(api)/./pages/api/recommendations.ts:55:37)
+    at async K (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:2946)
+    at async U.render (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:3827)
+    at async DevServer.runApi (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:554:9)
+    at async NextNodeServer.handleCatchallRenderRequest (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:266:37)
+    at async DevServer.handleRequestImpl (file:///home/project/node_modules/next/dist/server/base-server.js#cjs:789:17)
+    at async eval (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:331:20)
+    at async Span.traceAsyncFn (file:///home/project/node_modules/next/dist/trace/trace.js#cjs:151:20)
+    at async DevServer.handleRequest (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:328:24)
+    at async invokeRender (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:174:21)
+    at async handleRequest (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:353:24)
+    at async requestHandlerImpl (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:377:13)
+    at async Server.requestListener (file:///home/project/node_modules/next/dist/server/lib/start-server.js#cjs:140:13)
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Response from ChatGPT: "[\n    {\n        \"name\": \"Samsung WF42H5000AW\",\n        \"brand\": \"Samsung\",\n        \"price\": 749,\n        \"rating\": 4.5,\n        \"features\": [\"4.2 cu. ft. capacity\", \"9 wash cycles\", \"Vibration Reduction Technology\"]\n    },\n    {\n        \"name\": \"LG WM9000HVA\",\n        \"brand\": \"LG\",\n        \"price\": 1499,\n        \"rating\": 4.8,\n        \"features\": [\"5.2 cu. ft. capacity\", \"TurboWash technology\", \"Steam technology\"]\n    },\n    {\n        \"name\": \"Whirlpool WFW5620HW\",\n        \"brand\": \"Whirlpool\",\n        \"price\": 999,\n        \"rating\": 4.3,\n        \"features\": [\"4.5 cu. ft. capacity\", \"Load and Go dispenser\", \"12 wash cycles\"]\n    },\n    {\n        \"name\": \"Bosch WAT28400UC\",\n        \"brand\": \"Bosch\",\n        \"price\": 999,\n        \"rating\": 4.6,\n        \"features\": [\"2.2 cu. ft. capacity\", \"15 wash cycles\", \"EcoSilence motor\"]\n    },\n    {\n        \"name\": \"Maytag MVWB765FW\",\n        \"brand\": \"Maytag\",\n        \"price\": 899,\n        \"rating\": 4.4,\n        \"features\": [\"4.7 cu. ft. capacity\", \"PowerWash system\", \"Deep Fill option\"]\n    }\n]"
+
+Response from ChatGPT: "```json\n[\n    {\n        \"name\": \"Samsung 5.0 cu. ft. High-Efficiency Front Load Washer\",\n        \"brand\": \"Samsung\",\n        \"price\": 899.99,\n        \"rating\": 4.5,\n        \"key_features\": [\"Large capacity - 5.0 cu. ft.\", \"Energy-efficient\", \"Steam wash option\", \"Smart control with app integration\"]\n    },\n    {\n        \"name\": \"LG TurboWash 360 Smart Wi-Fi Enabled 5.5-cu ft High Efficiency Stackable Steam Cycle Front-Load Washer\",\n        \"brand\": \"LG\",\n        \"price\": 1299.00,\n        \"rating\": 4.7,\n        \"key_features\": [\"TurboWash technology for quick wash cycles\", \"Large 5.5 cu. ft. capacity\", \"Smart Wi-Fi connectivity\", \"Steam cycle for deep cleaning\"]\n    },\n    {\n        \"name\": \"Maytag 4.7 cu. ft. High-Efficiency Top Load Washer\",\n        \"brand\": \"Maytag\",\n        \"price\": 799.00,\n        \"rating\": 4.3,\n        \"key_features\": [\"PowerWash agitator for deep cleaning\", \"4.7 cu. ft. capacity\", \"Stainless steel drum\", \"Advanced vibration control\"]\n    },\n    {\n        \"name\": \"Bosch 300 Series Compact Washer\",\n        \"brand\": \"Bosch\",\n        \"price\": 1099.00,\n        \"rating\": 4.6,\n        \"key_features\": [\"Compact size ideal for small spaces\", \"Energy-efficient\", \"SpeedPerfect option for quick wash cycles\", \"Quiet operation\"]\n    },\n    {\n        \"name\": \"GE 4.6 cu. ft. High-Efficiency White Top Load Washing Machine\",\n        \"brand\": \"GE\",\n        \"price\": 649.00,\n        \"rating\": 4.2,\n        \"key_features\": [\"4.6 cu. ft. capacity\", \"Deep fill option for larger loads\", \"Heavy-duty agitator\", \"Dual-action agitator for thorough cleaning\"]\n    }\n]\n```"
+
+Error: Unexpected token '`', "```json
+[
+"... is not valid JSON
+SyntaxError: Unexpected token '`', "```json
+[
+"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getRecommendationsFromChatGPT (webpack-internal:///(api)/./pages/api/recommendations.ts:38:38)
+    at async handler (webpack-internal:///(api)/./pages/api/recommendations.ts:55:37)
+    at async K (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:2946)
+    at async U.render (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:3827)
+    at async DevServer.runApi (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:554:9)
+    at async NextNodeServer.handleCatchallRenderRequest (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:266:37)
+    at async DevServer.handleRequestImpl (file:///home/project/node_modules/next/dist/server/base-server.js#cjs:789:17)
+    at async eval (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:331:20)
+    at async Span.traceAsyncFn (file:///home/project/node_modules/next/dist/trace/trace.js#cjs:151:20)
+    at async DevServer.handleRequest (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:328:24)
+    at async invokeRender (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:174:21)
+    at async handleRequest (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:353:24)
+    at async requestHandlerImpl (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:377:13)
+    at async Server.requestListener (file:///home/project/node_modules/next/dist/server/lib/start-server.js#cjs:140:13)
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung FlexWash",
+        "brand": "Samsung",
+        "price": 1299,
+        "rating": 4.5,
+        "key_features": ["Dual Washer", "5.5 cu. ft. total capacity", "Super Speed option"]
+    },
+    {
+        "name": "LG TurboWash",
+        "brand": "LG",
+        "price": 799,
+        "rating": 4.3,
+        "key_features": ["TurboWash technology", "4.5 cu. ft. capacity", "SmartThinQ technology"]
+    },
+    {
+        "name": "Maytag Front Load",
+        "brand": "Maytag",
+        "price": 849,
+        "rating": 4.0,
+        "key_features": ["Front load design", "PowerWash system", "Steam cycles"]
+    },
+    {
+        "name": "Whirlpool Top Load",
+        "brand": "Whirlpool",
+        "price": 699,
+        "rating": 4.2,
+        "key_features": ["Top load design", "Impeller wash system", "Deep Water Wash option"]
+    },
+    {
+        "name": "GE High-Efficiency",
+        "brand": "GE",
+        "price": 749,
+        "rating": 4.1,
+        "key_features": ["High-efficiency design", "Stain removal guide", "Quiet Wash technology"]
+    }
+]
+
+Response from ChatGPT: {
+    "products": [
+        {
+            "name": "LG TurboWash 360",
+            "brand": "LG",
+            "price": 899,
+            "rating": 4.5,
+            "features": ["TurboWash technology for quick wash cycles", "Large capacity for big loads", "SmartThinQ technology for remote monitoring"]
+        },
+        {
+            "name": "Samsung FlexWash",
+            "brand": "Samsung",
+            "price": 1299,
+            "rating": 4.7,
+            "features": ["FlexWash dual washers for separate loads", "Steam wash option for deep cleaning", "Smart Control app for remote operation"]
+        },
+        {
+            "name": "Whirlpool Cabrio",
+            "brand": "Whirlpool",
+            "price": 749,
+            "rating": 4.4,
+            "features": ["Intuitive Touch Controls for easy operation", "Adaptive Wash technology for precise cleaning", "High Efficiency impeller for powerful performance"]
+        },
+        {
+            "name": "Bosch 800 Series",
+            "brand": "Bosch",
+            "price": 1099,
+            "rating": 4.6,
+            "features": ["EcoSilence motor for quiet operation", "SpeedPerfect option for faster cycles", "ActiveWater technology for efficient water usage"]
+        },
+        {
+            "name": "GE UltraFresh Vent System",
+            "brand": "GE",
+            "price": 999,
+            "rating": 4.3,
+            "features": ["UltraFresh Vent system with OdorBlock technology", "Microban antimicrobial technology for mold prevention", "Built-in WiFi for remote control"]
+        }
+    ]
+}
+
+Error: recommendations.map is not a function
+TypeError: recommendations.map is not a function
+    at getRecommendationsFromChatGPT (webpack-internal:///(api)/./pages/api/recommendations.ts:45:32)
+    at async handler (webpack-internal:///(api)/./pages/api/recommendations.ts:61:37)
+    at async K (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:2946)
+    at async U.render (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:3827)
+    at async DevServer.runApi (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:554:9)
+    at async NextNodeServer.handleCatchallRenderRequest (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:266:37)
+    at async DevServer.handleRequestImpl (file:///home/project/node_modules/next/dist/server/base-server.js#cjs:789:17)
+    at async eval (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:331:20)
+    at async Span.traceAsyncFn (file:///home/project/node_modules/next/dist/trace/trace.js#cjs:151:20)
+    at async DevServer.handleRequest (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:328:24)
+    at async invokeRender (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:174:21)
+    at async handleRequest (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:353:24)
+    at async requestHandlerImpl (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:377:13)
+    at async Server.requestListener (file:///home/project/node_modules/next/dist/server/lib/start-server.js#cjs:140:13)
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Top Load Washer",
+        "brand": "Samsung",
+        "price": 699,
+        "rating": 4.5,
+        "features": ["Top load design", "Large capacity", "Smart control features"]
+    },
+    {
+        "name": "LG Front Load Washer",
+        "brand": "LG",
+        "price": 849,
+        "rating": 4.7,
+        "features": ["Front load design", "Energy efficient", "Steam cleaning option"]
+    },
+    {
+        "name": "Whirlpool High-Efficiency Top Load Washer",
+        "brand": "Whirlpool",
+        "price": 599,
+        "rating": 4.3,
+        "features": ["High-efficiency", "Multiple wash cycles", "Deep water wash option"]
+    },
+    {
+        "name": "Maytag Front Load Washer with Steam",
+        "brand": "Maytag",
+        "price": 799,
+        "rating": 4.6,
+        "features": ["Front load design", "Steam cleaning technology", "Extra Power button"]
+    },
+    {
+        "name": "Bosch Compact Washer",
+        "brand": "Bosch",
+        "price": 999,
+        "rating": 4.8,
+        "features": ["Compact size", "Quiet operation", "SpeedPerfect technology"]
+    }
+]
+
+Response from ChatGPT: ```json
+[
+    {
+        "name": "LG TurboWash Smart Washer",
+        "brand": "LG",
+        "price": 999,
+        "rating": 4.5,
+        "features": ["TurboWash Technology", "Smart Diagnosis", "Steam Technology"]
+    },
+    {
+        "name": "Samsung ActiveCare Washer",
+        "brand": "Samsung",
+        "price": 849,
+        "rating": 4.3,
+        "features": ["ActiveCare Technology", "EcoBubble Technology", "Quiet Operation"]
+    },
+    {
+        "name": "Maytag Front Load Washer",
+        "brand": "Maytag",
+        "price": 799,
+        "rating": 4.2,
+        "features": ["Extra Power Button", "Fresh Hold Option", "10-Year Limited Parts Warranty"]
+    },
+    {
+        "name": "Whirlpool High-Efficiency Washer",
+        "brand": "Whirlpool",
+        "price": 699,
+        "rating": 4.0,
+        "features": ["Built-In Water Faucet", "Presoak Option", "Load & Go Dispenser"]
+    },
+    {
+        "name": "Bosch 800 Series Washer",
+        "brand": "Bosch",
+        "price": 1099,
+        "rating": 4.7,
+        "features": ["EcoSilence Motor", "SpeedPerfect Option", "Anti-Vibration Design"]
+    }
+]
+```
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Response from ChatGPT: I'm sorry, but it seems like you forgot to provide your preferences for the washing machines. Please provide me with your preferences so that I can recommend the best products for you.
+
+Error: Unexpected token 'I', "I'm sorry,"... is not valid JSON
+SyntaxError: Unexpected token 'I', "I'm sorry,"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getRecommendationsFromChatGPT (webpack-internal:///(api)/./pages/api/recommendations.ts:44:38)
+    at async handler (webpack-internal:///(api)/./pages/api/recommendations.ts:62:37)
+    at async K (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:2946)
+    at async U.render (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:3827)
+    at async DevServer.runApi (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:554:9)
+    at async NextNodeServer.handleCatchallRenderRequest (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:266:37)
+    at async DevServer.handleRequestImpl (file:///home/project/node_modules/next/dist/server/base-server.js#cjs:789:17)
+    at async eval (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:331:20)
+    at async Span.traceAsyncFn (file:///home/project/node_modules/next/dist/trace/trace.js#cjs:151:20)
+    at async DevServer.handleRequest (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:328:24)
+    at async invokeRender (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:174:21)
+    at async handleRequest (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:353:24)
+    at async requestHandlerImpl (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:377:13)
+    at async Server.requestListener (file:///home/project/node_modules/next/dist/server/lib/start-server.js#cjs:140:13)
+
+Response from ChatGPT: {
+  "products": [
+    {
+      "name": "Front-Load Washer",
+      "brand": "LG",
+      "price": 899,
+      "rating": 4.5,
+      "key_features": ["Large capacity", "Energy efficient", "Smart diagnosis technology"]
+    },
+    {
+      "name": "Top-Load Washing Machine",
+      "brand": "Samsung",
+      "price": 749,
+      "rating": 4.3,
+      "key_features": ["Top-loading design", "Active WaterJet", "Deep Fill option"]
+    },
+    {
+      "name": "Compact Washer",
+      "brand": "GE",
+      "price": 649,
+      "rating": 4.0,
+      "key_features": ["Space-saving design", "Stainless steel wash drum", "Multiple wash cycles"]
+    },
+    {
+      "name": "Smart Washer",
+      "brand": "Whirlpool",
+      "price": 999,
+      "rating": 4.6,
+      "key_features": ["Smart home connectivity", "Adaptive wash technology", "Steam clean option"]
+    },
+    {
+      "name": "Energy-Efficient Washer",
+      "brand": "Bosch",
+      "price": 1099,
+      "rating": 4.7,
+      "key_features": ["ENERGY STAR certified", "Quiet operation", "SpeedPerfect option"]
+    }
+  ]
+}
+
+Error: recommendations.map is not a function
+TypeError: recommendations.map is not a function
+    at getRecommendationsFromChatGPT (webpack-internal:///(api)/./pages/api/recommendations.ts:45:32)
+    at async handler (webpack-internal:///(api)/./pages/api/recommendations.ts:62:37)
+    at async K (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:2946)
+    at async U.render (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:3827)
+    at async DevServer.runApi (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:554:9)
+    at async NextNodeServer.handleCatchallRenderRequest (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:266:37)
+    at async DevServer.handleRequestImpl (file:///home/project/node_modules/next/dist/server/base-server.js#cjs:789:17)
+    at async eval (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:331:20)
+    at async Span.traceAsyncFn (file:///home/project/node_modules/next/dist/trace/trace.js#cjs:151:20)
+    at async DevServer.handleRequest (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:328:24)
+    at async invokeRender (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:174:21)
+    at async handleRequest (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:353:24)
+    at async requestHandlerImpl (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:377:13)
+    at async Server.requestListener (file:///home/project/node_modules/next/dist/server/lib/start-server.js#cjs:140:13)
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Response from ChatGPT: [
+  {
+    "name": "Samsung Front Load Washer",
+    "brand": "Samsung",
+    "price": 699,
+    "rating": 4.5,
+    "features": ["Large capacity", "Energy efficient", "Multiple wash cycles"]
+  },
+  {
+    "name": "LG Top Load Washer",
+    "brand": "LG",
+    "price": 499,
+    "rating": 4.2,
+    "features": ["Smart diagnosis technology", "Noise reduction feature", "Quick wash option"]
+  },
+  {
+    "name": "Whirlpool Front Load Washer",
+    "brand": "Whirlpool",
+    "price": 799,
+    "rating": 4.6,
+    "features": ["Steam cleaning option", "Sanitize cycle", "Built-in water heater"]
+  },
+  {
+    "name": "GE Top Load Washer",
+    "brand": "GE",
+    "price": 599,
+    "rating": 4.4,
+    "features": ["Quiet operation", "Pre-soak option", "Wi-Fi connectivity"]
+  },
+  {
+    "name": "Bosch Compact Washer",
+    "brand": "Bosch",
+    "price": 899,
+    "rating": 4.7,
+    "features": ["Space-saving design", "Allergen cycle", "Vibration reduction technology"]
+  }
+]
+
+Response from ChatGPT: ```json
+[
+  {
+    "name": "Samsung Front Load Washer",
+    "brand": "Samsung",
+    "price": 699,
+    "rating": 4.5,
+    "features": ["4.5 cu. ft. capacity", "Steam wash option", "Smart Control via app"]
+  },
+  {
+    "name": "LG Top Load Washer",
+    "brand": "LG",
+    "price": 599,
+    "rating": 4.3,
+    "features": ["5.0 cu. ft. capacity", "Turbowash technology", "Quiet operation"]
+  },
+  {
+    "name": "Whirlpool Compact Washer",
+    "brand": "Whirlpool",
+    "price": 499,
+    "rating": 4.0,
+    "features": ["2.8 cu. ft. capacity", "Stackable design", "Automatic detergent dispenser"]
+  },
+  {
+    "name": "GE High-Efficiency Washer",
+    "brand": "GE",
+    "price": 749,
+    "rating": 4.4,
+    "features": ["4.8 cu. ft. capacity", "Stain removal guide", "Energy Star certified"]
+  },
+  {
+    "name": "Maytag Front Load Washer",
+    "brand": "Maytag",
+    "price": 799,
+    "rating": 4.6,
+    "features": ["5.0 cu. ft. capacity", "Fresh Hold option", "Commercial-grade motor"]
+  }
+]
+```
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Response from ChatGPT: ```json
+[
+    {
+        "name": "Front Load Washer",
+        "brand": "LG",
+        "price": 699,
+        "rating": 4.5,
+        "key_features": ["Direct Drive Motor", "Steam Technology", "Smart Diagnosis"]
+    },
+    {
+        "name": "Top Load Washer",
+        "brand": "Samsung",
+        "price": 599,
+        "rating": 4.2,
+        "key_features": ["Active WaterJet", "VRT Plus Technology", "Self Clean"]
+    },
+    {
+        "name": "Compact Washer",
+        "brand": "Bosch",
+        "price": 749,
+        "rating": 4.8,
+        "key_features": ["SpeedPerfect Option", "Anti-Vibration Design", "Stackable"]
+    },
+    {
+        "name": "High Efficiency Washer",
+        "brand": "Whirlpool",
+        "price": 529,
+        "rating": 4.0,
+        "key_features": ["Quiet Wash Cycle", "Load & Go Dispenser", "ColorLast Option"]
+    },
+    {
+        "name": "Portable Washer",
+        "brand": "Haier",
+        "price": 349,
+        "rating": 4.3,
+        "key_features": ["Compact Design", "Delay Start Option", "Adjustable Leveling Feet"]
+    }
+]
+```
+
+Response from ChatGPT: {
+  "recommendations": [
+    {
+      "name": "Samsung Front Load Washer",
+      "brand": "Samsung",
+      "price": 799.99,
+      "rating": 4.5,
+      "features": ["4.5 cu. ft. capacity", "Vibration Reduction Technology", "Steam Wash option"]
+    },
+    {
+      "name": "LG Top Load Washer",
+      "brand": "LG",
+      "price": 699.99,
+      "rating": 4.3,
+      "features": ["5.0 cu. ft. capacity", "SmartThinQ technology", "TurboWash 3D feature"]
+    },
+    {
+      "name": "Whirlpool High-Efficiency Front Load Washer",
+      "brand": "Whirlpool",
+      "price": 749.99,
+      "rating": 4.2,
+      "features": ["4.3 cu. ft. capacity", "Load & Go dispenser", "Adaptive Wash technology"]
+    },
+    {
+      "name": "GE Top Load Washer",
+      "brand": "GE",
+      "price": 599.99,
+      "rating": 4.0,
+      "features": ["4.8 cu. ft. capacity", "Dual-action agitator", "Deep Fill option"]
+    },
+    {
+      "name": "Maytag Front Load Washer",
+      "brand": "Maytag",
+      "price": 849.99,
+      "rating": 4.4,
+      "features": ["4.8 cu. ft. capacity", "PowerWash system", "Fresh Hold option"]
+    }
+  ]
+}
+
+Error: recommendations.map is not a function
+TypeError: recommendations.map is not a function
+    at getRecommendationsFromChatGPT (webpack-internal:///(api)/./pages/api/recommendations.ts:44:32)
+    at async handler (webpack-internal:///(api)/./pages/api/recommendations.ts:61:37)
+    at async K (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:2946)
+    at async U.render (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:3827)
+    at async DevServer.runApi (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:554:9)
+    at async NextNodeServer.handleCatchallRenderRequest (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:266:37)
+    at async DevServer.handleRequestImpl (file:///home/project/node_modules/next/dist/server/base-server.js#cjs:789:17)
+    at async eval (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:331:20)
+    at async Span.traceAsyncFn (file:///home/project/node_modules/next/dist/trace/trace.js#cjs:151:20)
+    at async DevServer.handleRequest (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:328:24)
+    at async invokeRender (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:174:21)
+    at async handleRequest (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:353:24)
+    at async requestHandlerImpl (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:377:13)
+    at async Server.requestListener (file:///home/project/node_modules/next/dist/server/lib/start-server.js#cjs:140:13)
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects.
+
+Response from ChatGPT: I'm sorry, but it seems like your preferences for the washing machine are missing. Can you please provide me with more details so I can help recommend the best products for you?
+
+Error: Unexpected token 'I', "I'm sorry,"... is not valid JSON
+SyntaxError: Unexpected token 'I', "I'm sorry,"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at getRecommendationsFromChatGPT (webpack-internal:///(api)/./pages/api/recommendations.ts:43:38)
+    at async handler (webpack-internal:///(api)/./pages/api/recommendations.ts:61:37)
+    at async K (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:2946)
+    at async U.render (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:3827)
+    at async DevServer.runApi (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:554:9)
+    at async NextNodeServer.handleCatchallRenderRequest (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:266:37)
+    at async DevServer.handleRequestImpl (file:///home/project/node_modules/next/dist/server/base-server.js#cjs:789:17)
+    at async eval (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:331:20)
+    at async Span.traceAsyncFn (file:///home/project/node_modules/next/dist/trace/trace.js#cjs:151:20)
+    at async DevServer.handleRequest (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:328:24)
+    at async invokeRender (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:174:21)
+    at async handleRequest (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:353:24)
+    at async requestHandlerImpl (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:377:13)
+    at async Server.requestListener (file:///home/project/node_modules/next/dist/server/lib/start-server.js#cjs:140:13)
+
+Response from ChatGPT: {
+  "products": [
+    {
+      "name": "Samsung Front Load Washer",
+      "brand": "Samsung",
+      "price": 799,
+      "rating": 4.5,
+      "features": ["Front load", "10 washing cycles", "Steam wash technology"]
+    },
+    {
+      "name": "LG Top Load Washer",
+      "brand": "LG",
+      "price": 699,
+      "rating": 4.3,
+      "features": ["Top load", "Energy efficient", "Smart diagnosis system"]
+    },
+    {
+      "name": "Whirlpool High-Efficiency Front Load Washer",
+      "brand": "Whirlpool",
+      "price": 849,
+      "rating": 4.7,
+      "features": ["Front load", "Precision dispense", "Quiet operation"]
+    },
+    {
+      "name": "Bosch Compact Washer",
+      "brand": "Bosch",
+      "price": 999,
+      "rating": 4.6,
+      "features": ["Compact size", "SpeedPerfect option", "15 wash cycles"]
+    },
+    {
+      "name": "GE Top Load Washer",
+      "brand": "GE",
+      "price": 599,
+      "rating": 4.0,
+      "features": ["Top load", "Deep fill option", "Stain pre-treat feature"]
+    }
+  ]
+}
+
+Error: recommendations.map is not a function
+TypeError: recommendations.map is not a function
+    at getRecommendationsFromChatGPT (webpack-internal:///(api)/./pages/api/recommendations.ts:44:32)
+    at async handler (webpack-internal:///(api)/./pages/api/recommendations.ts:61:37)
+    at async K (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:2946)
+    at async U.render (file:///home/project/node_modules/next/dist/compiled/next-server/pages-api.runtime.dev.js#cjs:21:3827)
+    at async DevServer.runApi (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:554:9)
+    at async NextNodeServer.handleCatchallRenderRequest (file:///home/project/node_modules/next/dist/server/next-server.js#cjs:266:37)
+    at async DevServer.handleRequestImpl (file:///home/project/node_modules/next/dist/server/base-server.js#cjs:789:17)
+    at async eval (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:331:20)
+    at async Span.traceAsyncFn (file:///home/project/node_modules/next/dist/trace/trace.js#cjs:151:20)
+    at async DevServer.handleRequest (file:///home/project/node_modules/next/dist/server/dev/next-dev-server.js#cjs:328:24)
+    at async invokeRender (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:174:21)
+    at async handleRequest (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:353:24)
+    at async requestHandlerImpl (file:///home/project/node_modules/next/dist/server/lib/router-server.js#cjs:377:13)
+    at async Server.requestListener (file:///home/project/node_modules/next/dist/server/lib/start-server.js#cjs:140:13)
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Response from ChatGPT: [
+  {
+    "name": "Samsung Front Load Washer",
+    "brand": "Samsung",
+    "price": 899,
+    "rating": 4.7,
+    "features": ["Large capacity", "Energy efficient", "Smart control"]
+  },
+  {
+    "name": "LG Top Load Washer",
+    "brand": "LG",
+    "price": 699,
+    "rating": 4.5,
+    "features": ["TurboWash technology", "Steam cleaning", "Quiet operation"]
+  },
+  {
+    "name": "Whirlpool Front Load Washer",
+    "brand": "Whirlpool",
+    "price": 749,
+    "rating": 4.3,
+    "features": ["12 hour delay start", "Quick wash cycle", "Stainless steel drum"]
+  },
+  {
+    "name": "GE Top Load Washer",
+    "brand": "GE",
+    "price": 799,
+    "rating": 4.2,
+    "features": ["Deep fill option", "Dual-action agitator", "Customizable water levels"]
+  },
+  {
+    "name": "Bosch Compact Washer",
+    "brand": "Bosch",
+    "price": 999,
+    "rating": 4.8,
+    "features": ["Space-saving design", "Anti-vibration technology", "AllergyPlus program"]
+  }
+]
+
+Response from ChatGPT: [
+    {
+        "name": "Front Load Washing Machine",
+        "brand": "LG",
+        "price": 799,
+        "rating": 4.5,
+        "features": ["Smart Diagnosis", "Direct Drive Motor", "Steam Technology"]
+    },
+    {
+        "name": "Top Load Washer",
+        "brand": "Samsung",
+        "price": 699,
+        "rating": 4.3,
+        "features": ["Active WaterJet", "VRT Plus Technology", "Self Clean"]
+    },
+    {
+        "name": "Compact Portable Washer",
+        "brand": "Giantex",
+        "price": 279,
+        "rating": 4.2,
+        "features": ["Easy to Use", "Space-Saving Design", "Low Noise Level"]
+    },
+    {
+        "name": "Built-In Washing Machine",
+        "brand": "Bosch",
+        "price": 1099,
+        "rating": 4.6,
+        "features": ["AquaStop Plus", "EcoSilence Drive", "SpeedPerfect Option"]
+    },
+    {
+        "name": "Smart Wi-Fi Enabled Washer",
+        "brand": "Whirlpool",
+        "price": 899,
+        "rating": 4.4,
+        "features": ["Load & Go Dispenser", "Remote Control with App", "Advanced Moisture Sensing"]
+    }
+]
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Response from ChatGPT: [
+    {
+        "name": "LG TurboWash 360 Smart Wi-Fi Enabled Front Load Washer",
+        "brand": "LG",
+        "price": 999,
+        "rating": 4.8,
+        "features": ["TurboWash 360 technology", "Smart Wi-Fi connectivity", "Front load design"]
+    },
+    {
+        "name": "Samsung FlexWash 2-in-1 Combo Washer",
+        "brand": "Samsung",
+        "price": 1399,
+        "rating": 4.7,
+        "features": ["FlexWash 2-in-1 washer", "Large capacity", "Steam option"]
+    },
+    {
+        "name": "Whirlpool Top Load Washer with Soaking Cycles",
+        "brand": "Whirlpool",
+        "price": 699,
+        "rating": 4.5,
+        "features": ["Top load design", "Deep Water Wash option", "Soaking cycles"]
+    },
+    {
+        "name": "GE UltraFresh Vent System Front Load Washer",
+        "brand": "GE",
+        "price": 1099,
+        "rating": 4.6,
+        "features": ["UltraFresh Vent System", "Microban antimicrobial technology", "Front load design"]
+    },
+    {
+        "name": "Bosch 500 Series Front Load Compact Washer",
+        "brand": "Bosch",
+        "price": 899,
+        "rating": 4.4,
+        "features": ["Compact design", "EcoSilence motor", "SpeedPerfect option"]
+    }
+]
+
+Response from ChatGPT: [
+    {
+        "name": "SmartWash 3000",
+        "brand": "HouseTech",
+        "price": 799,
+        "rating": 4.5,
+        "features": ["WiFi connectivity", "Energy efficient", "Large capacity"]
+    },
+    {
+        "name": "SpeedClean XL",
+        "brand": "CleanTech",
+        "price": 899,
+        "rating": 4.1,
+        "features": ["Quick wash cycles", "Stain removal technology", "Steam refresh"]
+    },
+    {
+        "name": "EcoWasher 500",
+        "brand": "GreenHome",
+        "price": 749,
+        "rating": 4.3,
+        "features": ["Water saving mode", "Allergen removal", "Quiet operation"]
+    },
+    {
+        "name": "UltraSpin Pro",
+        "brand": "PowerWash",
+        "price": 999,
+        "rating": 4.6,
+        "features": ["High-speed spinning", "Multiple wash programs", "Built-in heater"]
+    },
+    {
+        "name": "GentleCare Deluxe",
+        "brand": "SoftWash",
+        "price": 699,
+        "rating": 4.2,
+        "features": ["Gentle wash cycles", "Anti-vibration technology", "Delicate fabrics care"]
+    }
+]
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Front Load Washer",
+        "brand": "Samsung",
+        "price": 799,
+        "rating": 4.5,
+        "features": ["Steam Wash", "VRT Plus Technology", "Self Clean+", "Smart Care"]
+    },
+    {
+        "name": "LG Top Load Washer",
+        "brand": "LG",
+        "price": 749,
+        "rating": 4.3,
+        "features": ["TurboWash 3D Technology", "SmartThinQ Technology", "Direct Drive Motor"]
+    },
+    {
+        "name": "Whirlpool Front Load Washer",
+        "brand": "Whirlpool",
+        "price": 699,
+        "rating": 4.2,
+        "features": ["Load & Go Dispenser", "Adaptive Wash Technology", "Steam Clean Option"]
+    },
+    {
+        "name": "Bosch Compact Washer",
+        "brand": "Bosch",
+        "price": 899,
+        "rating": 4.7,
+        "features": ["SpeedPerfect Option", "AntiVibration Design", "EcoSilence Motor"]
+    },
+    {
+        "name": "GE Top Load Washer",
+        "brand": "GE Appliances",
+        "price": 679,
+        "rating": 4.0,
+        "features": ["Deep Fill Option", "Dual-Action Agitator", "Stain PreTreat"]
+    }
+]
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Front Load Washer",
+        "brand": "Samsung",
+        "price": 799,
+        "rating": 4.5,
+        "features": ["Quiet operation", "Energy efficient", "Large capacity"]
+    },
+    {
+        "name": "LG TurboWash Washing Machine",
+        "brand": "LG",
+        "price": 899,
+        "rating": 4.6,
+        "features": ["TurboWash technology", "Steam cleaning", "SmartThinQ app integration"]
+    },
+    {
+        "name": "Whirlpool Top Load Washer",
+        "brand": "Whirlpool",
+        "price": 699,
+        "rating": 4.4,
+        "features": ["Deep fill option", "Built-in water faucet", "Presoak option"]
+    },
+    {
+        "name": "Bosch Compact Washer",
+        "brand": "Bosch",
+        "price": 999,
+        "rating": 4.7,
+        "features": ["Space-saving design", "EcoSilence motor", "SpeedPerfect feature"]
+    },
+    {
+        "name": "GE High-Efficiency Washer",
+        "brand": "GE",
+        "price": 749,
+        "rating": 4.3,
+        "features": ["Stain removal guide", "Pre-wash function", "Deep clean cycle"]
+    }
+]
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Front Load Washing Machine",
+        "brand": "Samsung",
+        "price": 799,
+        "rating": 4.5,
+        "key_features": ["Energy efficient", "Large capacity", "Multiple wash cycles"]
+    },
+    {
+        "name": "LG Top Load Washer",
+        "brand": "LG",
+        "price": 699,
+        "rating": 4.3,
+        "key_features": ["TurboWash technology", "Quiet operation", "Smart ThinQ technology"]
+    },
+    {
+        "name": "Whirlpool Front Load Washer",
+        "brand": "Whirlpool",
+        "price": 749,
+        "rating": 4.2,
+        "key_features": ["Steam clean option", "Sanitize cycle", "Adaptive Wash technology"]
+    },
+    {
+        "name": "Bosch Compact Washer",
+        "brand": "Bosch",
+        "price": 899,
+        "rating": 4.4,
+        "key_features": ["Space-saving design", "Quiet operation", "SpeedPerfect cycle"]
+    },
+    {
+        "name": "GE High-Efficiency Top Load Washer",
+        "brand": "GE",
+        "price": 649,
+        "rating": 4.1,
+        "key_features": ["Stain removal guide", "Wash action customization", "Deep fill option"]
+    }
+]  
+
+Invalid product array structure
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung 4.5 cu. ft. High-Efficiency Front Load Washer",
+        "brand": "Samsung",
+        "price": 899,
+        "rating": 4.7,
+        "key_features": ["Super Speed technology", "VRT Plus Technology", "Steam Wash feature"]
+    },
+    {
+        "name": "LG 5.0 cu. ft. Smart Wi-Fi Enabled Top Load Washer",
+        "brand": "LG",
+        "price": 799,
+        "rating": 4.5,
+        "key_features": ["SmartThinQ Technology", "TurboWash 3D feature", "ColdWash Technology"]
+    },
+    {
+        "name": "Whirlpool 4.3 cu. ft. High-Efficiency Top Load Washer",
+        "brand": "Whirlpool",
+        "price": 649,
+        "rating": 4.2,
+        "key_features": ["Adaptive Wash technology", "Low-Profile Impeller", "Quick Wash cycle"]
+    },
+    {
+        "name": "GE 4.6 cu. ft. High-Efficiency Top Load Washer",
+        "brand": "GE",
+        "price": 729,
+        "rating": 4.4,
+        "key_features": ["Stain PreTreat feature", "Deep Fill option", "Dual-action agitator"]
+    },
+    {
+        "name": "Maytag 4.7 cu. ft. High-Efficiency Front Load Washer",
+        "brand": "Maytag",
+        "price": 999,
+        "rating": 4.6,
+        "key_features": ["Extra Power Button", "Fresh Hold option", "Advanced Vibration Control"]
+    }
+]
+
+Invalid product array structure
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Front Load Washer",
+        "brand": "Samsung",
+        "price": 799,
+        "rating": 4.5,
+        "features": ["Load size sensor", "Steam cycle", "Energy efficient"]
+    },
+    {
+        "name": "LG Smart Washer",
+        "brand": "LG",
+        "price": 899,
+        "rating": 4.3,
+        "features": ["WiFi connectivity", "Turbowash technology", "Allergiene cycle"]
+    },
+    {
+        "name": "GE Top Load Washer",
+        "brand": "GE",
+        "price": 649,
+        "rating": 4.0,
+        "features": ["Deep fill option", "Quiet operation", "Stain removal guide"]
+    },
+    {
+        "name": "Whirlpool High-Efficiency Washer",
+        "brand": "Whirlpool",
+        "price": 699,
+        "rating": 4.2,
+        "features": ["Presoak option", "Adaptive wash technology", "Built-in faucet"]
+    },
+    {
+        "name": "Bosch Compact Washer",
+        "brand": "Bosch",
+        "price": 999,
+        "rating": 4.7,
+        "features": ["Anti-vibration design", "AquaStop leak protection", "SpeedPerfect cycle"]
+    }
+]
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung FlexWash",
+        "brand": "Samsung",
+        "price": 1299,
+        "rating": 4.5,
+        "features": ["Two washers in one", "Steam wash option", "Wi-Fi connectivity"]
+    },
+    {
+        "name": "LG Smart Wi-Fi Enabled Front Load Washer",
+        "brand": "LG",
+        "price": 999,
+        "rating": 4.3,
+        "features": ["SmartThinQ technology", "TurboWash 360°", "Allergiene cycle"]
+    },
+    {
+        "name": "GE Top Load Washing Machine",
+        "brand": "GE Appliances",
+        "price": 749,
+        "rating": 4.0,
+        "features": ["Deep fill option", "Stain removal guide", "Quiet wash action"]
+    },
+    {
+        "name": "Whirlpool High-Efficiency Front Load Washer",
+        "brand": "Whirlpool",
+        "price": 799,
+        "rating": 4.2,
+        "features": ["Adaptive wash technology", "Presoak option", "Energy Star certified"]
+    },
+    {
+        "name": "Bosch 500 Series Front Load Washer",
+        "brand": "Bosch",
+        "price": 1099,
+        "rating": 4.6,
+        "features": ["Anti-vibration technology", "SpeedPerfect option", "EcoSilence motor"]
+    }
+]
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung FlexWash",
+        "brand": "Samsung",
+        "price": 1499,
+        "rating": 4.8,
+        "features": ["FlexWash dual washer", "5.5 cu. ft. total capacity", "Steam wash", "Wi-Fi connectivity"]
+    },
+    {
+        "name": "LG TurboWash",
+        "brand": "LG",
+        "price": 1099,
+        "rating": 4.6,
+        "features": ["TurboWash technology", "4.5 cu. ft. capacity", "Allergiene cycle", "SmartThinQ app control"]
+    },
+    {
+        "name": "Whirlpool Cabrio",
+        "brand": "Whirlpool",
+        "price": 899,
+        "rating": 4.5,
+        "features": ["5.3 cu. ft. capacity", "Precision Dispense", "Adaptive Wash technology", "ColorLast option"]
+    },
+    {
+        "name": "Bosch 800 Series",
+        "brand": "Bosch",
+        "price": 1299,
+        "rating": 4.7,
+        "features": ["SpeedPerfect option", "2.2 cu. ft. capacity", "ActiveWater technology", "EcoSilence motor"]
+    },
+    {
+        "name": "GE UltraFresh Vent System",
+        "brand": "GE",
+        "price": 1399,
+        "rating": 4.9,
+        "features": ["UltraFresh Vent system", "Microban antimicrobial technology", "Built-in WiFi", "SmartDispense technology"]
+    }
+]
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Front Load Washing Machine",
+        "brand": "Samsung",
+        "price": 799,
+        "rating": 4.5,
+        "features": ["10kg capacity", "EcoBubble technology", "Quick Wash program"]
+    },
+    {
+        "name": "LG Top Load Washing Machine",
+        "brand": "LG",
+        "price": 699,
+        "rating": 4.3,
+        "features": ["6 Motion Direct Drive", "TurboWash technology", "Smart Diagnosis"]
+    },
+    {
+        "name": "Whirlpool Smart Front Load Washing Machine",
+        "brand": "Whirlpool",
+        "price": 849,
+        "rating": 4.2,
+        "features": ["6th Sense Technology", "SteamCare technology", "Intellisense Inverter Motor"]
+    },
+    {
+        "name": "Bosch Top Load Washing Machine",
+        "brand": "Bosch",
+        "price": 599,
+        "rating": 4.4,
+        "features": ["VarioDrum", "EcoSilence Drive", "ActiveWater technology"]
+    },
+    {
+        "name": "Haier Compact Washing Machine",
+        "brand": "Haier",
+        "price": 349,
+        "rating": 4.1,
+        "features": ["1.5 cu. ft. capacity", "Digital display", "Delay start option"]
+    }
+]
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Front Load Washer",
+        "brand": "Samsung",
+        "price": 799,
+        "rating": 4.7,
+        "features": ["Energy efficient", "Large capacity", "Smart control"]
+    },
+    {
+        "name": "LG Top Load Washer",
+        "brand": "LG",
+        "price": 649,
+        "rating": 4.5,
+        "features": ["TurboWash technology", "Wi-Fi connectivity", "Quiet operation"]
+    },
+    {
+        "name": "GE High-Efficiency Washer",
+        "brand": "GE",
+        "price": 699,
+        "rating": 4.4,
+        "features": ["Stainless steel drum", "Multiple wash cycles", "Steam option"]
+    },
+    {
+        "name": "Whirlpool Front Load Washer",
+        "brand": "Whirlpool",
+        "price": 749,
+        "rating": 4.6,
+        "features": ["Load & Go dispenser", "Sanitize cycle", "Quiet operation"]
+    },
+    {
+        "name": "Bosch Compact Washer",
+        "brand": "Bosch",
+        "price": 899,
+        "rating": 4.8,
+        "features": ["Compact design", "SpeedPerfect option", "Anti-vibration technology"]
+    }
+]
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Front Load Washer",
+        "brand": "Samsung",
+        "price": 799,
+        "rating": 4.5,
+        "features": ["Steam Wash", "Vibration Reduction Technology", "Smart Control"]
+    },
+    {
+        "name": "LG Top Load Washer",
+        "brand": "LG",
+        "price": 699,
+        "rating": 4.3,
+        "features": ["TurboWash Technology", "Direct Drive Motor", "Smart Diagnosis"]
+    },
+    {
+        "name": "Whirlpool High-Efficiency Washer",
+        "brand": "Whirlpool",
+        "price": 649,
+        "rating": 4.0,
+        "features": ["Adaptive Wash Technology", "Precision Dispense", "Stainless Steel Drum"]
+    },
+    {
+        "name": "GE Front Load Washing Machine",
+        "brand": "GE Appliances",
+        "price": 749,
+        "rating": 4.2,
+        "features": ["Time Saver Option", "Stain Removal Guide", "Quiet-By-Design"]
+    },
+    {
+        "name": "Bosch Compact Washer",
+        "brand": "Bosch",
+        "price": 899,
+        "rating": 4.7,
+        "features": ["SpeedPerfect Option", "EcoSilence Motor", "Anti-Vibration Design"]
+    }
+]
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Front Load Washing Machine",
+        "brand": "Samsung",
+        "price": 699,
+        "rating": 4.5,
+        "key_features": ["Energy-efficient", "Steam cycle", "Large capacity"]
+    },
+    {
+        "name": "LG Top Load Washer",
+        "brand": "LG",
+        "price": 499,
+        "rating": 4.3,
+        "key_features": ["TurboWash technology", "Smart Diagnosis", "High spin speed"]
+    },
+    {
+        "name": "Bosch Compact Washer",
+        "brand": "Bosch",
+        "price": 799,
+        "rating": 4.7,
+        "key_features": ["AquaStop leak protection", "Quiet operation", "Variety of wash cycles"]
+    },
+    {
+        "name": "Whirlpool High-Efficiency Washer",
+        "brand": "Whirlpool",
+        "price": 549,
+        "rating": 4.2,
+        "key_features": ["Adaptive Wash technology", "Load and Go dispenser", "ColorLast option"]
+    },
+    {
+        "name": "GE Front Load Washing Machine",
+        "brand": "GE",
+        "price": 649,
+        "rating": 4.4,
+        "key_features": ["Built-in WiFi connectivity", "Sanitize cycle", "Delay start option"]
+    }
+]
+
+Invalid product array structure
+
+Response from ChatGPT: [
+    {
+        "name": "Front Load Washer",
+        "brand": "Samsung",
+        "price": 799,
+        "rating": 4.5,
+        "key_features": ["EcoBubble technology", "Steam cleaning", "AddWash feature"]
+    },
+    {
+        "name": "Top Load Washer",
+        "brand": "LG",
+        "price": 699,
+        "rating": 4.3,
+        "key_features": ["TurboWash technology", "Smart diagnosis", "6Motion technology"]
+    },
+    {
+        "name": "Compact Washer",
+        "brand": "GE Appliances",
+        "price": 499,
+        "rating": 4.2,
+        "key_features": ["Stainless steel wash basket", "Quiet wash action", "Multiple cycles"]
+    },
+    {
+        "name": "Smart Front Load Washer",
+        "brand": "Whirlpool",
+        "price": 899,
+        "rating": 4.6,
+        "key_features": ["Load & Go dispenser", "App control", "Adaptive wash technology"]
+    },
+    {
+        "name": "Portable Washer",
+        "brand": "Magic Chef",
+        "price": 349,
+        "rating": 4.0,
+        "key_features": ["Compact design", "Easy installation", "Adjustable water levels"]
+    }
+]
+
+Invalid product array structure
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Front Load Washer",
+        "brand": "Samsung",
+        "price": 799.99,
+        "rating": 4.5,
+        "features": ["Steam function", "Vibration Reduction Technology", "Smart Control"]
+    },
+    {
+        "name": "LG Top Load Washer",
+        "brand": "LG",
+        "price": 699.99,
+        "rating": 4.3,
+        "features": ["TurboWash technology", "ColdWash option", "Energy Star certified"]
+    },
+    {
+        "name": "Whirlpool High-Efficiency Washer",
+        "brand": "Whirlpool",
+        "price": 749.00,
+        "rating": 4.4,
+        "features": ["Adaptive Wash technology", "Precision Dispense", "Steam Clean option"]
+    },
+    {
+        "name": "Maytag Front Load Washer",
+        "brand": "Maytag",
+        "price": 899.00,
+        "rating": 4.6,
+        "features": ["Fresh Hold option", "Extra Power button", "Sanitize cycle"]
+    },
+    {
+        "name": "Bosch Compact Washer",
+        "brand": "Bosch",
+        "price": 999.99,
+        "rating": 4.7,
+        "features": ["SpeedPerfect option", "Quiet operation", "Anti-vibration design"]
+    }
+]
+
+Response from ChatGPT: [
+  {
+    "name": "Samsung Front Load Washer",
+    "brand": "Samsung",
+    "price": 799,
+    "rating": 4.5,
+    "keyFeatures": ["Smart Control", "Quick Wash", "Energy-efficient"]
+  },
+  {
+    "name": "LG Top Load Washer",
+    "brand": "LG",
+    "price": 699,
+    "rating": 4.3,
+    "keyFeatures": ["TurboWash", "Quiet Operation", "Large Capacity"]
+  },
+  {
+    "name": "Whirlpool High-Efficiency Washer",
+    "brand": "Whirlpool",
+    "price": 649,
+    "rating": 4.0,
+    "keyFeatures": ["Presoak Option", "Stainless Steel Drum", "Automatic Water Level Control"]
+  },
+  {
+    "name": "Bosch Compact Washer",
+    "brand": "Bosch",
+    "price": 849,
+    "rating": 4.7,
+    "keyFeatures": ["VarioDrum", "SpeedPerfect", "AntiVibration Design"]
+  },
+  {
+    "name": "GE Front Load Washer with Steam",
+    "brand": "GE",
+    "price": 899,
+    "rating": 4.4,
+    "keyFeatures": ["Steam Cleaning", "Wi-Fi Connectivity", "Allergen Cycle"]
+  }
+]
+
+Invalid product array structure
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Prompt sent to ChatGPT: Recommend 5 washing-machines based on these preferences: {}. For each product, provide the name, brand, price (as a number), rating (out of 5), and a list of key features. Format the response as a JSON array of objects. Do not include any explanatory text outside the JSON array.
+
+Response from ChatGPT: [
+    {
+        "name": "Samsung Front Load Washer",
+        "brand": "Samsung",
+        "price": 899,
+        "rating": 4.5,
+        "key_features": ["Energy efficient", "Large capacity", "Multiple wash cycles"]
+    },
+    {
+        "name": "LG Top Load Washer",
+        "brand": "LG",
+        "price": 799,
+        "rating": 4.2,
+        "key_features": ["TurboWash technology", "SmartThinQ app compatibility", "Steam cleaning"]
+    },
+    {
+        "name": "Whirlpool High-Efficiency Washer",
+        "brand": "Whirlpool",
+        "price": 749,
+        "rating": 4.0,
+        "key_features": ["Load & Go dispenser", "Quiet operation", "Built-in water faucet"]
+    },
+    {
+        "name": "GE Front Load Washer",
+        "brand": "GE",
+        "price": 849,
+        "rating": 4.3,
+        "key_features": ["Wi-Fi connectivity", "Sanitize cycle", "Stain removal guide"]
+    },
+    {
+        "name": "Bosch Compact Washer",
+        "brand": "Bosch",
+        "price": 999,
+        "rating": 4.7,
+        "key_features": ["Space-saving design", "SpeedPerfect option", "Anti-vibration technology"]
+    }
+]
+
+Invalid product array structure
+
+Response from ChatGPT: [
+  {
+    "name": "Samsung Front Load Washer",
+    "brand": "Samsung",
+    "price": 799,
+    "rating": 4.5,
+    "features": ["Energy efficient", "Large capacity", "Steam cleaning"]
+  },
+  {
+    "name": "LG Top Load Washer",
+    "brand": "LG",
+    "price": 649,
+    "rating": 4.2,
+    "features": ["Smart Diagnosis technology", "Dual LED display", "6 Motion technology"]
+  },
+  {
+    "name": "Whirlpool Compact Washer",
+    "brand": "Whirlpool",
+    "price": 499,
+    "rating": 4.0,
+    "features": ["Space-saving design", "Automatic detergent dispenser", "Quiet operation"]
+  },
+  {
+    "name": "Bosch High-Efficiency Washer",
+    "brand": "Bosch",
+    "price": 899,
+    "rating": 4.7,
+    "features": ["VarioPerfect technology", "ActiveWater Plus", "SpeedPerfect option"]
+  },
+  {
+    "name": "GE Front Load Washer",
+    "brand": "GE Appliances",
+    "price": 749,
+    "rating": 4.3,
+    "features": ["Stain removal guide", "HydroHeater technology", "Quiet-By-Design sound package"]
+  }
+]
+
